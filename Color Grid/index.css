@@ -1,0 +1,89 @@
+html {
+    font-size: 20px;
+  }
+  
+  .wrapper {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1.2fr;
+    grid-auto-rows: minmax(700px, auto);
+  }
+  
+  .wrapper>div {
+    padding: 0;
+  }
+  
+  .nested-1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+  }
+  
+  .nested-1>div {
+    font-family: "Roboto", sans-serif;
+    font-size: 0.6rem;
+    color: white;
+  }
+  
+  .top-bar {
+    padding-top: 0.3rem;
+}
+
+.flight-modus {
+  justify-self: start;
+  padding-left: 0.3rem;
+}
+
+.charge-status {
+  justify-self: end;
+  padding-right: 0.3rem;
+}
+
+.nested-2 {
+    display: grid;
+    grid-auto-rows: minmax(200px, auto);
+    justify-items: end;
+  }
+  
+  .nested-2>div {
+    font-family: "Roboto", sans-serif;
+    font-size: 5rem;
+    font-weight: lighter;
+    color: white;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    align-self: end;
+  }
+  
+  .nested-3 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    justify-items: center;
+    font-size: 2.2rem;
+    color: black;
+    background: #ddd;
+    font-family: "Roboto", sans-serif;
+    font-weight: lighter;
+    padding: 1rem;
+}
+
+.operations {
+  font-size: 1.5rem;
+  padding: 1.3rem;
+}
+
+.bg-grey {
+  background: #ccc;
+}
+
+.left-cell {
+  background: black;
+}
+
+.right-cell {
+  background: black;
+}
+
+.calculator {
+  background: #333333;
+}

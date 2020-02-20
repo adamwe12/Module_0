@@ -1,0 +1,24 @@
+body {
+    background-color: green;
+}
+
+.realness {
+    color: yellow;
+    background-color: blue;
+    font-size: 70px;
+    font-family: cursive;
+}
+
+#header {
+    color: rgb(68, 29, 60);
+    background-color:red;
+    font-size: 90px;
+    font-family: monospace;
+}
+
+.fakeness {
+    color: rgb(112, 158, 158);
+    background-color:orange;
+    font-size: 40px;
+    font-family: serif;
+}

@@ -1,0 +1,30 @@
+html{
+    color: #111111;
+    
+    }
+    
+ h1 {
+    color: #E2E80F;
+    
+    }
+    
+p {
+    
+    color: #eeeeee;
+    }
+    
+body {
+     background-color: darkred;
+    
+    }
+    
+.credits {
+    
+        color: #49DAFF
+    
+    }
+    
+#film-description {
+        font-style: italic;
+        font-size: 50px;
+    }
