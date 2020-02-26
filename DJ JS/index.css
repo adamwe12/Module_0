@@ -1,0 +1,127 @@
+body {
+    text-align: center;
+    Width: 100%;
+    height: 100%;
+    Background: url(https://www.theindianwire.com/wp-content/uploads/2018/10/dj.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -chrome-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+.square {
+    background-color:rebeccapurple;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .square:hover {
+    background-color: red;
+  }
+
+  
+  .funky {
+    background-color: rgb(36, 206, 13);
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .funky:hover {
+    background-color: brown;
+  }
+
+  
+  .yup {
+    background-color: blue;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .yup:hover {
+    background-color: orange;
+  }
+
+ 
+  .how {
+    background-color: #737373;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .how:hover {
+    background-color: burlywood;
+  }
+  
+
+  .liam {
+    background-color: #470c49;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .liam:hover {
+    background-color: rgb(0, 0, 0);
+  }
+
+
+  .apple {
+    background-color: #a9c21a;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .apple:hover {
+    background-color: lightpink;
+  }
+
+
+  .ditch {
+    background-color: #00534c;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .ditch:hover {
+    background-color: darkblue;
+  }
+
+
+  .trick {
+    background-color: #d41818;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .trick:hover {
+    background-color: orange;
+  }
+
+
+  .hey {
+    background-color: greenyellow;
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30.66%;
+    margin: 1.66%;
+  }
+  .hey:hover {
+    background-color: rgb(151, 4, 153);
+  }
